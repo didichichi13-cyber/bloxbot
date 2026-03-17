@@ -1,1 +1,1 @@
-
+{"name":"bloxbot","version":"1.0.0","type":"module","scripts":{"start":"node index.js"},"dependencies":{"discord.js":"^14.16.3"}}
